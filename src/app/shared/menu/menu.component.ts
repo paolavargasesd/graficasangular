@@ -21,8 +21,7 @@ export class MenuComponent {
   menu: MenuItem[] = [
     { ruta: '/graficas/barra', texto: 'Barras' },
     { ruta: '/graficas/barra-doble', texto: 'Barras Dobles' },
-    { ruta: '/graficas/dona', texto: 'Dona' },
-    { ruta: '/graficas/dona-http', texto: 'Dona Http' },
+    { ruta: '/graficas/dona', texto: 'Anillo' },
 
   ];
 
